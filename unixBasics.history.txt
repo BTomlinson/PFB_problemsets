@@ -1,0 +1,53 @@
+commit 6687b6df81cf626dbcd61028d4305eb0e2b1fbac
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 16:42:13 2019 -0400
+
+    changing mess ups
+
+commit c4a8ee5fdb56e2a0ec8a7eb7ebba5f664da234e2
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 16:25:02 2019 -0400
+
+    removing oops2 silly goose
+
+commit 6411c43b735edd3f4e363f1a821baeaa6e253bf0
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 16:23:51 2019 -0400
+
+    removing oops2
+
+commit b99c2da2eb272f28030c0c344290589f7bde8db8
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 16:21:05 2019 -0400
+
+    oops
+
+commit e9f39b39a656fda0c7435d5e23af3dea25799386
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 16:19:51 2019 -0400
+
+    moved cancer_genes.fasta to fastas directory
+
+commit 7e3a4c11a7a376aec1695947c66373d16e146a76
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 16:05:28 2019 -0400
+
+    added mysequences.txt
+
+commit 759487744059cac997625cb1a2dda3fadd992820
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 15:47:50 2019 -0400
+
+    adding cancer_genes.fasta
+
+commit 4e6e46d7484d1a0168da4b31977b71f7f509f098
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 15:42:52 2019 -0400
+
+    adding test file containing line of text
+
+commit f123d1bcedd6f7ad98995e6e0a62cc832a848a69
+Author: Brooke Tomlinson <bto@info06.cshl.edu>
+Date:   Tue Oct 15 15:36:14 2019 -0400
+
+    first commit
