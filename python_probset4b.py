@@ -24,5 +24,6 @@ print(species[1])
 #sort the taxon LIST alphabetically
 print(sorted(taxa))
 
-
+#sort taxa list by length of each string
+print(sorted(taxa, key=len))
 
