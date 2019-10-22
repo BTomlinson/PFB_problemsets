@@ -2,6 +2,16 @@
 import sys
 import re
 
+fileinput = ''
+try:
+	fileinput = sys.argv[1]
+	print('User provided sequence:',fileinput)
+except IndexError:
+	print('please provide a file')
+except:
+  print('Please provide a sequence or sequence file')
+
+### BELOW HERE IS OLD CODE FROM PROBSET 8#######
 
 #open the file the user supplies
 
@@ -54,4 +64,6 @@ for dna in listofsequences:
 codonsgrouped=[]
 for dna2 in codons:
 	print(' '.join(dna2))
+
+
 
